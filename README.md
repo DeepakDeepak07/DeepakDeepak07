@@ -70,7 +70,7 @@
 ## 📊 Projects
 
 ### 📈 Power BI Financial Reporting Dashboard
-🔗 [View Project Repository](https://github.com/DeepakDeepak07/PowerBI-Project)
+🔗 [View Project Repository](https://github.com/DeepakDeepak07/Power-BI-Project-For-Financial-Reporting)
 
 A Power BI project focused on financial performance analysis and KPI reporting.
 
