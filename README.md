@@ -25,6 +25,42 @@
 
 ⚡ Fun fact: I enjoy turning raw data into meaningful insights and continuously learning new technologies.
 
+## 📊 Projects
+
+### 📈 Power BI Financial Reporting Dashboard
+🔗 [View Project Repository](https://github.com/DeepakDeepak07/Power-BI-Project-For-Financial-Reporting)
+
+A Power BI project focused on financial performance analysis and KPI reporting.
+
+**Key Work:**
+- Built interactive dashboards in Power BI
+- Designed KPI-based financial reports
+- Analyzed multi-year financial performance trends
+- Converted raw accounting data into actionable insights
+
+### 📈 Advanced Excel Analytics
+
+* Developed reporting solutions using Pivot Tables, Lookup Functions, and Dynamic Dashboards.
+* Automated data analysis processes to improve reporting efficiency.
+
+### 🗄️ Database Design & Normalization
+🔗 [View Project Repository](https://github.com/DeepakDeepak07/Database-Normalization-Project)
+
+* Designed relational databases following normalization principles.
+* Created ERD models and optimized table structures to reduce redundancy.
+* Applied First, Second, Third, and Fourth Normal Forms.
+
+### 💰 Accounting Systems Practice
+
+* Completed bookkeeping and accounting projects using QuickBooks Online and Xero.
+* Recorded transactions, reconciliations, and generated financial reports.
+
+### 🔍 SQL Portfolio Projects
+
+* Writing SQL queries for data extraction and reporting.
+* Practicing joins, subqueries, aggregate functions, CTEs, window functions, and database management concepts.
+* Building a portfolio of SQL Server projects while learning advanced SQL.
+
 ---
 
 ## 🛠️ Skills
@@ -67,37 +103,3 @@
 
 ---
 
-## 📊 Projects
-
-### 📈 Power BI Financial Reporting Dashboard
-🔗 [View Project Repository](https://github.com/DeepakDeepak07/Power-BI-Project-For-Financial-Reporting)
-
-A Power BI project focused on financial performance analysis and KPI reporting.
-
-**Key Work:**
-- Built interactive dashboards in Power BI
-- Designed KPI-based financial reports
-- Analyzed multi-year financial performance trends
-- Converted raw accounting data into actionable insights
-
-### 📈 Advanced Excel Analytics
-
-* Developed reporting solutions using Pivot Tables, Lookup Functions, and Dynamic Dashboards.
-* Automated data analysis processes to improve reporting efficiency.
-
-### 🗄️ Database Design & Normalization
-
-* Designed relational databases following normalization principles.
-* Created ERD models and optimized table structures to reduce redundancy.
-* Applied First, Second, Third, and Fourth Normal Forms.
-
-### 💰 Accounting Systems Practice
-
-* Completed bookkeeping and accounting projects using QuickBooks Online and Xero.
-* Recorded transactions, reconciliations, and generated financial reports.
-
-### 🔍 SQL Portfolio Projects
-
-* Writing SQL queries for data extraction and reporting.
-* Practicing joins, subqueries, aggregate functions, CTEs, window functions, and database management concepts.
-* Building a portfolio of SQL Server projects while learning advanced SQL.
