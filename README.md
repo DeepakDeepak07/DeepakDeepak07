@@ -1,105 +1,141 @@
-# Hi, I'm Deepak 👋
+<div align="center">
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f7ff&height=220&section=header&text=Deepak&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-🎓 Business Administration Accounting Graduate (2025)
+<br>
 
-📊 Passionate about Data Analytics, Business Intelligence, Accounting, and Databases
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+%7C+Power+BI+Enthusiast;SQL+%7C+Power+BI+%7C+Excel+Specialist;Accounting+%7C+Database+Design;Always+Learning+New+Tech&center=true&width=800&height=45">
 
-📈 Currently building projects using:
+</div>
 
-* Excel
-* QuickBooks Online
-* Xero
-* Power BI
-* SQL Server
-* Database Design
 
-🌱 I'm currently learning SQL Server, T-SQL, Database Administration (DBA), and Data Warehousing
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Accounting-Finance-lightgrey?style=for-the-badge" />
+</p>
 
-👯 I'm looking to collaborate on Accounting Projects, SQL, Data Analytics, Power BI, and Database Projects
+---
 
-💬 Ask me about Accounting, Financial Reporting, QuickBooks, Xero, Advanced Excel, Power BI, Database Design, and Database Normalization
+## 👨‍💻 ABOUT ME
 
-📫 How to reach me: **[deepak.372558@gmail.com](mailto:deepak.372558@gmail.com)**
+🎓 Business Administration Accounting Graduate (2025)  
+📊 Data Analytics | Business Intelligence | Accounting Systems  
+📈 Turning raw data into structured insights  
+⚙️ Focus: SQL, Power BI, Database Design  
 
-⚡ Fun fact: I enjoy turning raw data into meaningful insights and continuously learning new technologies.
+---
 
-## 📊 Projects
+## 🚀 TECH STACK
 
-### 📈 Power BI Financial Reporting Dashboard
-🔗 [View Project Repository](https://github.com/DeepakDeepak07/Power-BI-Project-For-Financial-Reporting)
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-DataViz-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 
-A Power BI project focused on financial performance analysis and KPI reporting.
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red?logo=microsoftsqlserver)
+![SQL](https://img.shields.io/badge/SQL-Queries-blue)
 
-**Key Work:**
-- Built interactive dashboards in Power BI
-- Designed KPI-based financial reports
-- Analyzed multi-year financial performance trends
-- Converted raw accounting data into actionable insights
+### 📚 Accounting Systems
+QuickBooks | Xero | Financial Reporting | Reconciliation
 
-### 📈 Advanced Excel Analytics
+---
 
-* Developed reporting solutions using Pivot Tables, Lookup Functions, and Dynamic Dashboards.
-* Automated data analysis processes to improve reporting efficiency.
+## 📂 PROJECTS
+---
 
-### 🗄️ Database Design & Normalization
-🔗 [View Project Repository](https://github.com/DeepakDeepak07/Database-Normalization-Project)
+## 📊 Power BI Financial Reporting Dashboard
 
-* Designed relational databases following normalization principles.
-* Created ERD models and optimized table structures to reduce redundancy.
-* Applied First, Second, Third, and Fourth Normal Forms.
+<div align="center">
+
+<a href="https://github.com/DeepakDeepak07/Power-BI-Project-For-Financial-Reporting">
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-Power%20BI%20Financial%20Reporting-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</a>
+
+</div>
+
+### ⚙️ Key Features
+- 📊 Interactive KPI dashboards  
+- 📈 Financial trend analysis  
+- 📅 Multi-year performance reporting  
+- 🧠 Data transformation into actionable insights  
+
+---
+
+## 🗄️ Database Design & Normalization
+
+<div align="center">
+
+<a href="https://github.com/DeepakDeepak07/Database-Normalization-Project">
+
+<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-Database%20Normalization-blue?style=for-the-badge&logo=database&logoColor=white" />
+
+</a>
+
+</div>
+
+### ⚙️ Key Features
+- ERD design & relational modeling  
+- 1NF → 4NF normalization  
+- Redundancy reduction & optimization  
+
+---
+
+## 🏗️ SQL Data Warehouse Project (In Progress)
+
+<div align="center">
+
+<a href="https://github.com/DeepakDeepak07/SQL-Data-Warehouse-Project">
+
+<img src="https://img.shields.io/badge/🏗️%20VIEW%20PROJECT-SQL%20Data%20Warehouse-orange?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</a>
+
+</div>
+
+### ⚙️ Key Features
+- Data warehouse schema design (Star/Snowflake model)  
+- ETL-style data structuring using SQL Server  
+- Bronze → Silver → Gold data layers  
+- Fact & dimension table architecture  
+- Business-ready reporting layer creation  
+
+---
 
 ### 💰 Accounting Systems Practice
-
-* Completed bookkeeping and accounting projects using QuickBooks Online and Xero.
-* Recorded transactions, reconciliations, and generated financial reports.
-
-### 🔍 SQL Portfolio Projects
-
-* Writing SQL queries for data extraction and reporting.
-* Practicing joins, subqueries, aggregate functions, CTEs, window functions, and database management concepts.
-* Building a portfolio of SQL Server projects while learning advanced SQL.
+- QuickBooks Online bookkeeping  
+- Xero accounting workflows  
+- Financial statement generation  
+- Transaction recording & reconciliation  
 
 ---
 
-## 🛠️ Skills
-
-### Accounting & Finance
-
-* Financial Reporting
-* Bookkeeping
-* Accounts Payable & Receivable
-* Bank Reconciliations
-* Financial Analysis
-* QuickBooks Online
-* Xero Accounting
-
-### Data Analytics & BI
-
-* Power BI
-* Dashboard Development
-* Data Visualization
-* KPI Reporting
-* Excel Analytics
-* Data Cleaning
-
-### Databases
-
-* SQL
-* SQL Server
-* Database Design
-* Database Normalization
-* Relational Databases
-* T-SQL (Learning)
-
-### Tools
-
-* Microsoft Excel
-* Microsoft Office
-* Power BI
-* Tableau
-* Git & GitHub
+### 📈 Advanced Excel Analytics
+- Pivot Tables & Dashboard automation  
+- Lookup functions & reporting models  
+- Process optimization using Excel formulas  
 
 ---
 
+## 🧠 SKILLS MATRIX
+
+### 📊 Data & BI
+Power BI • Excel • Data Visualization • KPI Reporting
+
+### 🗄️ Databases
+SQL Server • T-SQL • Database Design • Data Warehousing
+
+### 💼 Accounting
+Financial Reporting • Bookkeeping • Reconciliation • Analysis
+
+---
+
+## 📬 CONTACT
+
+📧 deepak.372558@gmail.com  
+
+![Typing Animation](https://waveify.onrender.com/api/typing/gradient?text=Always+learning.+Always+improving.&speed=60&color=%2300ff00&backgroundColor=%23000000&fontSize=32&fontFamily=JetBrains+Mono%2C+monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=gradient&prompt=%24+&glowEffect=true)
