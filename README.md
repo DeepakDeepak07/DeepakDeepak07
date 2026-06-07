@@ -85,7 +85,7 @@ QuickBooks | Xero | Financial Reporting | Reconciliation
 
 ---
 
-## 🏗️ SQL Data Warehouse Project (In Progress)
+## 🏗️ SQL Data Warehouse Project
 
 <div align="center">
 
