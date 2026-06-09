@@ -106,6 +106,32 @@ QuickBooks | Xero | Financial Reporting | Reconciliation
 
 ---
 
+## 📊 SQL Exploratory Data Analysis & Advanced Analytics
+
+<div align="center">
+
+<a href="https://github.com/DeepakDeepak07/SQL-Exploratory-Data-Analysis-and-Advanced-Analytics">
+
+<img src="https://img.shields.io/badge/📈%20VIEW%20PROJECT-SQL%20EDA%20%26%20Advanced%20Analytics-00C2FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</a>
+
+</div>
+
+### ⚙️ Key Features
+- 🔍 Exploratory Data Analysis (EDA) using SQL
+- 📊 Database, Dimensions & Measures Exploration
+- 📅 Change Over Time & Trend Analysis
+- 📈 Cumulative & Performance Analysis
+- 🎯 Customer & Product Segmentation
+- 🧩 Part-to-Whole Revenue Analysis
+- 👥 Customer Analytics Reporting
+- 📦 Product Analytics Reporting
+- 🏆 Ranking Analysis with Window Functions
+- 🛠️ Advanced T-SQL, CTEs & Analytical Queries
+
+---
+
 ### 💰 Accounting Systems Practice
 - QuickBooks Online bookkeeping  
 - Xero accounting workflows  
